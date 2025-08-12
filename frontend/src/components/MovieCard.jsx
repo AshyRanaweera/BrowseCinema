@@ -1,3 +1,4 @@
+import "../css/MovieCard.css"; // Assuming you have a CSS file for styling the MovieCard component
 
 function MovieCard({ movie }) {
 

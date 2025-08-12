@@ -1,3 +1,5 @@
+import "../css/Favorites.css"; // Assuming you have a CSS file for styling the Favorites page
+
 function Favorites() {
     return (
         <div className="favorites">
